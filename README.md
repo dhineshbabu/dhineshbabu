@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhineshbabu
 - 👀 I’m interested in Software Performance Engineering, Cloud,  Tool development and R&D
 - 🌱 I’m currently learning AWS, Python to the Core, Machine Learning and Automate Performance Engineering
-- 💞️ I’m looking to collaborate on Applied Machine Learning for Performance Analysis
+- 💞️ I’m looking to collaborate on Ideas for Applied Machine Learning for Performance Analysis
 - 📫 How to reach me ... Coming Soon...
 
 <!---
