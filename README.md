@@ -6,7 +6,7 @@
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png)   LinkedIn](https://www.linkedin.com/in/dhineshbabumuthu/)&nbsp;
 -----------------------------------------------------------------------------------------------------------------------
 
-<img width='200' src="https://github-readme-stats.vercel.app/api?username=dhineshbabu" />
+<img width='400' src="https://github-readme-stats.vercel.app/api?username=dhineshbabu" />
 
 
 <!---
