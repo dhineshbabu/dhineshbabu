@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on Ideas for Applied Machine Learning for Performance Analysis
 - 📫 How to reach me ... 
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png)   LinkedIn](https://www.linkedin.com/in/dhineshbabumuthu/)&nbsp;
+-----------------------------------------------------------------------------------------------------------------------
+
+https://github-readme-stats.vercel.app/api?username=dhineshbabu
 
 <!---
 dhineshbabu/dhineshbabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
