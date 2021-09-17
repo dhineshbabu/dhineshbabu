@@ -6,7 +6,8 @@
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png)   LinkedIn](https://www.linkedin.com/in/dhineshbabumuthu/)&nbsp;
 -----------------------------------------------------------------------------------------------------------------------
 
-https://github-readme-stats.vercel.app/api?username=dhineshbabu
+<img width='200' src="https://github-readme-stats.vercel.app/api?username=dhineshbabu" />
+
 
 <!---
 dhineshbabu/dhineshbabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
