@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Ideas for Applied Machine Learning for Performance Analysis
 - 📫 How to reach me ... 
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png)   LinkedIn](https://www.linkedin.com/in/dhineshbabumuthu/)&nbsp;
-- [My Technical Certifications](https://github.com/dhineshbabu/TechnicalCertifications#readme)
+- :partying_face: [My Technical Certifications](https://github.com/dhineshbabu/TechnicalCertifications#readme)
 -----------------------------------------------------------------------------------------------------------------------
 
 <img width='400' src="https://github-readme-stats.vercel.app/api?username=dhineshbabu" />
