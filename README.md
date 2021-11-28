@@ -2,9 +2,11 @@
 - 👀 I’m interested in Software Performance Engineering, Cloud,  Tool development and R&D
 - 🌱 I’m currently learning AWS, Python to the Core, Machine Learning and Automate Performance Engineering
 - 💞️ I’m looking to collaborate on Ideas for Applied Machine Learning for Performance Analysis
+- :partying_face: [My Technical Certifications](https://github.com/dhineshbabu/TechnicalCertifications#readme)
 - 📫 How to reach me ... 
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png)   LinkedIn](https://www.linkedin.com/in/dhineshbabumuthu/)&nbsp;
-- :partying_face: [My Technical Certifications](https://github.com/dhineshbabu/TechnicalCertifications#readme)
+- 📧 dhineshbabu89@gmail.com
+
 -----------------------------------------------------------------------------------------------------------------------
 
 <img width='400' src="https://github-readme-stats.vercel.app/api?username=dhineshbabu" />
