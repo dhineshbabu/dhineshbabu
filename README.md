@@ -5,8 +5,7 @@
 - :partying_face: [My Technical Certifications](https://github.com/dhineshbabu/TechnicalCertifications#readme)
 - 📫 How to reach me ... 
     -  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)   LinkedIn](https://www.linkedin.com/in/dhineshbabumuthu/)&nbsp;
-    - 📧 dhineshbabu89@gmail.com
-
+    - 📧 kanudhinesh@gmail.com
 -----------------------------------------------------------------------------------------------------------------------
 
 <img width='400' src="https://github-readme-stats.vercel.app/api?username=dhineshbabu" />
