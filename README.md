@@ -1,5 +1,5 @@
 - 👋 Hi, I’m dhineshbabu
-- 👀 I’m interested in Software Performance Engineering, Cloud,  Tool development and R&D. 
+- 👀 I’m interested in Software Performance Engineering and AI Application, Cloud, AI Powered Tools development and R&D. 
 - 🌱 I’m currently learning AWS, Java, Python to the Core for the enhancement and tooling for better Performance Engineering.
 - 💞️ I’m looking to collaborate on Ideas and New Innovations on Performance Engineering and Architecture
 - :partying_face: [My Technical Certifications](https://github.com/dhineshbabu/TechnicalCertifications#readme)
